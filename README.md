@@ -44,5 +44,9 @@ This research presents a deep learning-based approach for detecting potholes in 
 ## 📄 Research Paper
 [Download Paper](./pothole-detection-cnn.pdf)
 
+## 🏅 Certification
+This research work is officially recognized and certified.
+[View Certificate](./research-certificate.pdf)
+
 ## 👨‍💻 Author
 Chandra Mouli
